@@ -1,0 +1,6 @@
+{
+  "name": "PulsePass - Event & Concert Ticket Booking Platform",
+  "description": "Production-ready event discovery, real-time ticket booking, secure payments, digital QR tickets, check-in scanning, and organizer admin dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
